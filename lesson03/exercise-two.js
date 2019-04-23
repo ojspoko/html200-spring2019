@@ -1,3 +1,4 @@
-let life = ['live', 'life', 'to', 'the', 'fullest', '.'];
+let sentence = "live life to the fullest.";
+let words = sentence.split(" ");
 
-console.log(life[2]);
+console.log(words[2]);
