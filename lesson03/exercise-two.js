@@ -1,3 +1,3 @@
-let life = ['live', 'life', 'to', 'the', 'fullest.'];
+let life = ['live', 'life', 'to', 'the', 'fullest', '.'];
 
 console.log(life[2]);
