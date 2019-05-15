@@ -1,4 +1,4 @@
-let newEnglandCities = ["boston", "portland", "portsmouth"];
+let newEnglandCities = ["boston", "portland", "portsmouth", 'providence', 'cambridge'];
 
 newEnglandCities.push("newport");
 
